@@ -9,7 +9,7 @@ Step 2)
 Paste the project Online_exam inside 'C:\xampp\htdocs' directory of Xampp.
 
 Step 3)
-Also copy phpMyAdmin folder from 'C:\xampp' to 'C:\xampp\htdocs' directory
+Also copy phpMyAdmin folder from 'C:\xampp' to 'C:\xampp\htdocs' directory.
 Take note that your Project and phpMyAdmin is under same directory.
 
 Step 4)
